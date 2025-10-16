@@ -1,0 +1,95 @@
+{
+  "passages": [
+    {
+      "id": 1,
+      "title": "Urban Gardens and Green Cities",
+      "text": "Across the world, urban gardening has transformed unused rooftops and balconies into lush spaces. These gardens absorb carbon dioxide, provide food, and reconnect people with nature...",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Urban gardens mainly help to:",
+          "options": ["Reduce city noise", "Absorb carbon dioxide", "Increase rent prices", "Encourage wildlife hunting"],
+          "answer": "Absorb carbon dioxide",
+          "skill": "scanning"
+        },
+        {
+          "id": 2,
+          "question": "Which of the following is a benefit mentioned in the passage?",
+          "options": ["More concrete buildings", "Community isolation", "Food production", "Reduced biodiversity"],
+          "answer": "Food production",
+          "skill": "paraphrasing"
+        },
+        {
+          "id": 3,
+          "question": "The main purpose of urban gardening is to:",
+          "options": ["Improve city connections", "Reconnect people with nature", "Create business jobs", "Build taller structures"],
+          "answer": "Reconnect people with nature",
+          "skill": "inference"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The Science of Sleep",
+      "text": "Sleep is not merely rest; it is an active process of memory consolidation and cell repair. Researchers have found that deep sleep boosts learning and immune function...",
+      "questions": [
+        {
+          "id": 4,
+          "question": "During deep sleep, the body:",
+          "options": ["Stops all brain activity", "Repairs cells and strengthens memory", "Consumes more calories", "Releases adrenaline"],
+          "answer": "Repairs cells and strengthens memory",
+          "skill": "scanning"
+        },
+        {
+          "id": 5,
+          "question": "Sleep helps learning because it:",
+          "options": ["Eliminates stress completely", "Consolidates memories", "Increases energy instantly", "Encourages multitasking"],
+          "answer": "Consolidates memories",
+          "skill": "paraphrasing"
+        },
+        {
+          "id": 6,
+          "question": "According to the passage, lack of sleep can:",
+          "options": ["Boost the immune system", "Weaken the immune system", "Improve focus", "Help creativity"],
+          "answer": "Weaken the immune system",
+          "skill": "inference"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Artificial Intelligence in Education",
+      "text": "Artificial Intelligence (AI) is reshaping classrooms by providing personalised tutoring and analysing student performance data...",
+      "questions": [
+        {
+          "id": 7,
+          "question": "AI in education mainly provides:",
+          "options": ["Entertainment", "Personalised tutoring", "Discipline enforcement", "Physical education"],
+          "answer": "Personalised tutoring",
+          "skill": "scanning"
+        },
+        {
+          "id": 8,
+          "question": "One advantage of AI mentioned is its ability to:",
+          "options": ["Replace human teachers completely", "Analyse student performance data", "Reduce exam time", "Ignore weak students"],
+          "answer": "Analyse student performance data",
+          "skill": "paraphrasing"
+        },
+        {
+          "id": 9,
+          "question": "The writer suggests AI will:",
+          "options": ["End traditional learning", "Work alongside teachers", "Control education systems", "Stop homework"],
+          "answer": "Work alongside teachers",
+          "skill": "inference"
+        },
+        {
+          "id": 10,
+          "question": "AI can help detect learning difficulties early because it:",
+          "options": ["Reads handwriting", "Tracks performance patterns", "Gives higher grades", "Speaks multiple languages"],
+          "answer": "Tracks performance patterns",
+          "skill": "scanning"
+        }
+      ]
+    }
+  ]
+}
