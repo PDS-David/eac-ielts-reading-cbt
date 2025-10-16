@@ -9,5 +9,4 @@
   "installCommand": "npm install",
   "env": {},
   "functions": {},
-  "nodeVersion": "20.x"
 }
